@@ -7,4 +7,4 @@ print("from local 5th line modify")
 =======
 print("from local")
 print("forth remote Changes")
->>>>>>> 619ed18a3ecc7065900d41068e49cf01671e0b2d
+print("remote changes added 10th line")
