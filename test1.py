@@ -9,4 +9,6 @@ print("forth remote Changes")
 print("Local branch update line 8th added")
 
 print("remote changes added 10th line")
+print("Local branch update line 12th added")
+
 
